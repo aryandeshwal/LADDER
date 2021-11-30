@@ -1,5 +1,5 @@
-This repository contains source code for the paper **Combining Latent Space and Structured Kernels for Bayesian Optimization over Combinatorial Spaces** 
-accepted at NeurIPS-2021. 
+This repository contains source code for the paper **[Combining Latent Space and Structured Kernels for Bayesian Optimization over Combinatorial Spaces](https://arxiv.org/abs/2111.01186)** 
+accepted at [NeurIPS-2021](https://nips.cc/Conferences/2021/Schedule?type=Poster). 
 
 - Running the code
 
